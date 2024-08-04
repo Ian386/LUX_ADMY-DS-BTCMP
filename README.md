@@ -38,9 +38,9 @@ The dataset used in this project is embedded within the notebook. It includes va
 
 # Key Functions and Methods
 
-## Data Loading: Functions to read data from CSV files and load them into pandas DataFrames.
-## Data Cleaning: Methods to handle missing values, duplicate entries, and incorrect data types.
-## Exploratory Data Analysis (EDA): Techniques to summarize the main characteristics of the data using visual and quantitative methods.
+1. Data Loading: Functions to read data from CSV files and load them into pandas DataFrames.
+2. Data Cleaning: Methods to handle missing values, duplicate entries, and incorrect data types.
+3.  Exploratory Data Analysis (EDA): Techniques to summarize the main characteristics of the data using visual and quantitative methods.
 
 # Results
 The notebook includes various visualizations and statistical analyses that provide insights into the dataset. Key findings are summarized in the conclusion section.
